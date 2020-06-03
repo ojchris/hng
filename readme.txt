@@ -1,1 +1,1 @@
-HNG Internship Task 1
+HNG Training Task 1
